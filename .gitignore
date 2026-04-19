@@ -1,0 +1,13 @@
+outputs/
+data/
+*.csv
+*.pt
+*.pkl
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
